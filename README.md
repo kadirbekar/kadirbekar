@@ -18,7 +18,7 @@ The technologies that i've experienced  : <br><br>
  📫 You can get in touch with me via : <br> 
 
 - [LinkedIn](https://www.linkedin.com/in/kadirbekar)
-- [Twitter](https://twitter.com/kadir_b54)
+- [Twitter](https://twitter.com/_kadirbekar)
   
     
     
