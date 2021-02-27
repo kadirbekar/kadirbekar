@@ -1,8 +1,8 @@
  <p align="center"> Hi there 👋 I'm Kadir, welcome to my github profile.<p>
 
- 🔭 I’m currently working on creating mobile applications with Flutter and Kotlin. <br>
+ 🔭 &nbsp;&nbsp; I’m currently working on creating mobile applications with Flutter and Kotlin. <br>
 
- ✏️ From time to time, i like to write article about what i have learnt during creating applications on <a href="https://kadir-bekar.medium.com/">Medium </a> </br>
+  ✏️ &nbsp;&nbsp; From time to time, i like to write article about what i have learnt during creating applications on <a href="https://kadir-bekar.medium.com/">Medium </a> </br>
  
 The technologies that i've experienced  : <br><br>
 ![kindpng_1766554](https://user-images.githubusercontent.com/34074484/93015638-b148fd80-f5c3-11ea-8fd9-4c88050a14a3.png)
@@ -14,6 +14,9 @@ The technologies that i've experienced  : <br><br>
 ![sql-server](https://user-images.githubusercontent.com/34074484/93015862-8d86b700-f5c5-11ea-80e5-b33942e5d865.png)
 ![firebase](https://user-images.githubusercontent.com/34074484/93015370-97a6b680-f5c1-11ea-845b-c218b8f52707.png)
 ![kotlin](https://user-images.githubusercontent.com/34074484/93015376-99707a00-f5c1-11ea-915d-033657045f5b.png) <br><br>
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=kadirbekar&theme=tokyonight&show_icons=true&count_private=true)
+
 
  📫 You can get in touch with me via : <br> 
 
