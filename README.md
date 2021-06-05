@@ -1,4 +1,4 @@
- <p align="center"> Hi there 👋 I'm Kadir, welcome to my github profile.<p>
+ <p align="center"> Hi there 👋 I'm Kadir, welcome to my github profile. &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="https://komarev.com/ghpvc/?username=kadirbekar&label=views&color=orange&style=flat" alt="Kadir" /> <p>
 
  🔭 &nbsp;&nbsp; I’m currently working on creating mobile applications with Flutter and Kotlin. <br>
 
