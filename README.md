@@ -1,6 +1,4 @@
- <p align="center"> Hi there 👋 I'm Kadir, welcome to my github profile. &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="https://komarev.com/ghpvc/?username=kadirbekar&label=views&color=orange&style=flat" alt="Kadir" /> <p>
-
- 🔭 &nbsp;&nbsp; I’m currently working on creating mobile applications with Flutter and Kotlin. <br>
+🔭 &nbsp;&nbsp; I’m currently working on creating mobile applications with Flutter. <br>
 
   ✏️ &nbsp;&nbsp; From time to time, i like to write article about what i have learnt during creating applications on <a href="https://kadir-bekar.medium.com/">Medium </a> </br>
  
