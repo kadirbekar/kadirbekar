@@ -1,6 +1,6 @@
 🔭 &nbsp;&nbsp; I’m currently working on creating mobile applications with Flutter. <br>
 
-  ✏️ &nbsp;&nbsp; From time to time, i like to write article about what i have learnt during creating applications on <a href="https://kadir-bekar.medium.com/">Medium </a> </br>
+  ✏️ &nbsp;&nbsp; From time to time, I like to write article about what I have learnt during creating applications on <a href="https://kadir-bekar.medium.com/">Medium </a> </br>
  
 The technologies that I've experienced  : <br><br>
 ![kindpng_1766554](https://user-images.githubusercontent.com/34074484/93015638-b148fd80-f5c3-11ea-8fd9-4c88050a14a3.png)
