@@ -22,7 +22,7 @@ The technologies that I've experienced  : <br><br>
 - [Twitter](https://twitter.com/_kadirbekar)
 
 Events <br>
-- [Flutter ile App Tasarımı](https://www.youtube.com/watch?v=Fd06RWQIqZ4&t=7849s)
+- [Flutter ile App Tasarımı](https://www.youtube.com/watch?v=Fd06RWQIqZ4)
   
     
     
