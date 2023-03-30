@@ -2,7 +2,7 @@
 
   ✏️ &nbsp;&nbsp; From time to time, I like to write article about what I have learnt during creating applications on <a href="https://kadir-bekar.medium.com/">Medium </a> </br>
  
-The technologies that I've experienced  : <br><br>
+The technologies that I've experienced on real life projects <br><br>
 ![kindpng_1766554](https://user-images.githubusercontent.com/34074484/93015638-b148fd80-f5c3-11ea-8fd9-4c88050a14a3.png)
 ![flutter](https://user-images.githubusercontent.com/34074484/93015371-983f4d00-f5c1-11ea-87e5-e8a7282f8453.png)
 ![kindpng_7208798](https://user-images.githubusercontent.com/34074484/93015718-51068b80-f5c4-11ea-828a-d50ffcce9e41.png)
