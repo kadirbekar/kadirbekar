@@ -16,11 +16,6 @@ The technologies that I've experienced on real life projects <br><br>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kadirbekar&theme=tokyonight&show_icons=true&count_private=true)
 
 
- 📫 You can get in touch with me via <br> 
-
-- [LinkedIn](https://www.linkedin.com/in/kadirbekar)
-- [Twitter](https://twitter.com/_kadirbekar)
-
 Events <br>
 - [Flutter ile App Tasarımı](https://www.youtube.com/watch?v=Fd06RWQIqZ4)
   
