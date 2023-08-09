@@ -13,12 +13,13 @@ The technologies that I've experienced on real life projects <br><br>
 ![firebase](https://user-images.githubusercontent.com/34074484/93015370-97a6b680-f5c1-11ea-845b-c218b8f52707.png)
 ![kotlin](https://user-images.githubusercontent.com/34074484/93015376-99707a00-f5c1-11ea-915d-033657045f5b.png) <br><br>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=kadirbekar&theme=tokyonight&show_icons=true&count_private=true)
-
 
 Events <br>
 - [Flutter ile App Tasarımı](https://www.youtube.com/watch?v=Fd06RWQIqZ4)
-  
+
+Articles <br>
+
+- [Medium](https://kadir-bekar.medium.com)
     
     
 
